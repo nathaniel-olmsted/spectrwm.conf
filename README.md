@@ -9,7 +9,7 @@ dmenu
 spectrwm                       
 
 #installing                       
-git clone https://github.com/nathaniel-olmsted/.spectrwm.conf                    
+git clone https://github.com/nathaniel-olmsted/spectrwm.conf                    
 put .spectrwm.conf in your user's home folder                      
 done!             
  
