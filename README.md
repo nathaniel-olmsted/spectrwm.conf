@@ -7,6 +7,7 @@ pcmanfm
 st                          
 dmenu                        
 spectrwm                       
+mono font
 
 #installing                       
 git clone https://github.com/nathaniel-olmsted/spectrwm.conf                    
