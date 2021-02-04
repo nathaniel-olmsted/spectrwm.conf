@@ -7,7 +7,7 @@ pcmanfm
 st                          
 dmenu                        
 spectrwm                       
-mononoki nerd font
+mononoki nerd font                                                      
 conky-cli                                                          
 
 #installing                       
