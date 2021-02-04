@@ -9,7 +9,7 @@ st
 dmenu                        
 spectrwm                       
 mononoki nerd font                                                      
-conky-cli                                                          
+conky with lua support                                                         
 
 #installing                       
 git clone https://github.com/nathaniel-olmsted/spectrwm.conf                    
