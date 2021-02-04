@@ -8,6 +8,7 @@ st
 dmenu                        
 spectrwm                       
 mononoki nerd font
+conky                                                          
 
 #installing                       
 git clone https://github.com/nathaniel-olmsted/spectrwm.conf                    
