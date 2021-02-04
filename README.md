@@ -17,8 +17,8 @@ done!
 #keybinds                        
 MODKEY=super/win                      
 Lock=MOD+z                                  
-St=MOD+Return
-Browser=MOD+Shift+b                           
+St=MOD+Return                                    
+Browser=MOD+Shift+b                                         
 dmenu=MOD+d                            
 kill_window=MOD+c                             
 swap_master_and_stack=MOD+f                        
