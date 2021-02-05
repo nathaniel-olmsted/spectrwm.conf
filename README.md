@@ -2,7 +2,7 @@
 my dotfiles for the spectrwm window manager                                                    
 feel free to fork but I will not accept changes 
 
-#dependencies                                      
+# dependencies                                      
 i3lock-fancy                                       
 pcmanfm                            
 termite                          
