@@ -4,7 +4,7 @@ feel free to fork but I will not accept changes
 
 # dependencies                                      
 i3lock-fancy                                       
-pcmanfm                            
+vifm                            
 termite                          
 dmenu                        
 spectrwm                       
