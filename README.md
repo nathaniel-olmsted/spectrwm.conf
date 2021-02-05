@@ -8,7 +8,7 @@ pcmanfm
 st                          
 dmenu                        
 spectrwm                       
-mononoki nerd font                                                      
+terminus font                                                      
 conky with lua support                                                         
 
 #installing                       
