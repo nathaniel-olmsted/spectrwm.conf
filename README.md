@@ -5,7 +5,7 @@ feel free to fork but I will not accept changes
 #dependencies                                      
 i3lock-fancy                                       
 pcmanfm                            
-st                          
+termite                          
 dmenu                        
 spectrwm                       
 terminus font                                                      
