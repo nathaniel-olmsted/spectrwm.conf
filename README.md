@@ -11,12 +11,12 @@ spectrwm
 terminus font                                                      
 conky with lua support                                                         
 
-#installing                       
+# installing                       
 git clone https://github.com/nathaniel-olmsted/spectrwm.conf                    
 put .spectrwm.conf and .conkyrc in your user's home folder(the files will be hidden because they start with a . you can use the terminal to move it or a file manager with hiddn files shown)                     
 done!             
  
-#keybinds                        
+# keybinds                        
 MODKEY=super/win                      
 Lock=MOD+z                                  
 St=MOD+Return                                    
