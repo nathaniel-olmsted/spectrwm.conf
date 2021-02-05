@@ -10,6 +10,7 @@ dmenu
 spectrwm                       
 terminus font                                                      
 conky with lua support                                                         
+links browser                                                                     
 
 # installing                       
 git clone https://github.com/nathaniel-olmsted/spectrwm.conf                    
