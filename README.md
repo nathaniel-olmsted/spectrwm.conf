@@ -4,13 +4,13 @@ feel free to fork but I will not accept changes
 
 # dependencies                                      
 i3lock-fancy                                       
-vifm                            
-termite                          
+pcmanfm                            
+st                          
 dmenu                        
 spectrwm                       
-terminus font                                                      
+mono font                                                      
 conky with lua support                                                         
-links browser                                                                     
+qutebrowser                                                                     
 
 # installing                       
 git clone https://github.com/nathaniel-olmsted/spectrwm.conf                    
@@ -18,11 +18,11 @@ put .spectrwm.conf and .conkyrc in your user's home folder(the files will be hid
 done!             
  
 # keybinds                        
-MODKEY=super/win                      
+MODKEY=alt                      
 Lock=MOD+z                                  
 St=MOD+Return                                    
 Browser=MOD+Shift+b                                         
 dmenu=MOD+d                            
 kill_window=MOD+c                             
 swap_master_and_stack=MOD+f                        
-       
+workspace linit=34(I have a big keyboard with many function keys)                                                             
