@@ -26,3 +26,4 @@ dmenu=MOD+d
 kill_window=MOD+c                             
 swap_master_and_stack=MOD+f                        
 workspace linit=34(I have a big keyboard with many function keys)                                                             
+Vim= MOD+v
